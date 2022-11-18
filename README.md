@@ -1,4 +1,4 @@
-# TWord Scrambler
+# Word Scrambler
 
 ## Description of The Project
 
