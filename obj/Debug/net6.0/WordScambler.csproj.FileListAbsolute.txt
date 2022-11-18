@@ -1,0 +1,15 @@
+/home/hamsa/Desktop/transft/WordScambler/bin/Debug/net6.0/WordScambler
+/home/hamsa/Desktop/transft/WordScambler/bin/Debug/net6.0/WordScambler.deps.json
+/home/hamsa/Desktop/transft/WordScambler/bin/Debug/net6.0/WordScambler.runtimeconfig.json
+/home/hamsa/Desktop/transft/WordScambler/bin/Debug/net6.0/WordScambler.dll
+/home/hamsa/Desktop/transft/WordScambler/bin/Debug/net6.0/WordScambler.pdb
+/home/hamsa/Desktop/transft/WordScambler/obj/Debug/net6.0/WordScambler.csproj.AssemblyReference.cache
+/home/hamsa/Desktop/transft/WordScambler/obj/Debug/net6.0/WordScambler.GeneratedMSBuildEditorConfig.editorconfig
+/home/hamsa/Desktop/transft/WordScambler/obj/Debug/net6.0/WordScambler.AssemblyInfoInputs.cache
+/home/hamsa/Desktop/transft/WordScambler/obj/Debug/net6.0/WordScambler.AssemblyInfo.cs
+/home/hamsa/Desktop/transft/WordScambler/obj/Debug/net6.0/WordScambler.csproj.CoreCompileInputs.cache
+/home/hamsa/Desktop/transft/WordScambler/obj/Debug/net6.0/WordScambler.dll
+/home/hamsa/Desktop/transft/WordScambler/obj/Debug/net6.0/refint/WordScambler.dll
+/home/hamsa/Desktop/transft/WordScambler/obj/Debug/net6.0/WordScambler.pdb
+/home/hamsa/Desktop/transft/WordScambler/obj/Debug/net6.0/WordScambler.genruntimeconfig.cache
+/home/hamsa/Desktop/transft/WordScambler/obj/Debug/net6.0/ref/WordScambler.dll
